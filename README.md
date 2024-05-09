@@ -30,8 +30,8 @@ Run the game and you can move the ball by using the respective keys
 ```C#
 DEVELOPED BY : JAYABHARATHI S
 REG NO : 212222100013
-
-
+```
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -73,8 +73,10 @@ public class RollAball : MonoBehaviour
 
     }
 }
-
+```
 ## To Reset :
+
+```C#
 
 using System.Collections;
 using System.Collections.Generic;
@@ -100,7 +102,7 @@ public class reset : MonoBehaviour
 
 ```
 ## Output :
-![](./exp2arvr.png)
+![](./roll.png)
 
 ## Result :
 Thus a 3D application for RollABall objects in unity is developed successfully.
